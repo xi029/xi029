@@ -1,6 +1,12 @@
+<div align="center">
+
+  <!-- dynamic typing effect 动态打字效果 -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=85F7BD&width=550&height=60&lines=Welcome+to+Xiao+taixian's++Github!)](https://git.io/typing-svg)
+
 <div>&nbsp;</div>
 
-# Hello 👋, here is xiao taixain ~
+# Hello 👋, here is xiao taixain ~🤓
 
 <table>
 <!-- 个人介绍 -->
@@ -10,27 +16,35 @@
 
 <img align="right" width="88" src="https://github.com/xi029/xi029/blob/main/assets/kyubey.gif"/>
 
-就读于**北京邮电大学**通信工程英才班，目前大四，已保研至**复旦大学**直博，人工智能方向
+就读于 TUST 计算机科学与技术专业，目前大三，人工智能方向
 
-- 🌱 以后的研究方向是大模型的**多模态**学习，目前正在学习大模型的基础知识。
+- 🎓 大二转专业到 CS 专业，便一直在<b href="https://ai.tust.edu.cn/kxyj/kytd/b393d34e127243459377092ad41c36e3.htm">tustAiLab</b>做视觉感知、蛋白质学习等方面科研
 
-- 🛠️ 热爱计算机科学和 IT 互联网 🖥️ 事业，平时自己也做一些**全栈开发**，希望能成为一名优秀的开发者。
+- 🌱 以后的目标方向是高效深度学习、多模态大模型、**Agent**，目前准备 26 推免事宜。
 
-- 💰 同时自己也组织团队，接一些**软件开发**的单子，已高质量服务**30 余**大小客户。
+- 🛠️ 热爱计算机科学和 IT 互联网 🖥️ 事业，平时自己也做一些**全栈开发**，希望能成为一名优秀的程序员。
+
+- 💰 现在忙于课业和科研，这段时间结束会重拾
 - 💩 我的作品 ⏬⏬
 
-  - <a href="https://games.sparkflare.cn" target="_blank">>>网页小游戏</a>
+  - <a href="https://github.com/xi029">>>GitHub 项目</a>
 
-  - <a href="http://sue.sparkflare.cn" target="_blank">>>个人博客</a>
+  - <a href="https://blog.csdn.net/weixin_47520540?spm=1000.2115.3001.5343k">>>CSDN 博客</a>
+  - <a href="https://www.cnblogs.com/taixian">>>博客园</a>
 
-  - <a href="http://www.sparkflare.cn" target="_blank">>>数据标注平台（项目重启中...）</a>
+- ✨ 本科期间参加各种计算机设计类比赛的作品项目和有趣的课程设计 🔜<a href="https://github.com/xi029/xi029">后续会进行开源</a>
 
-- ✨ 我在语雀文档平台上记录我的学习和爱好 🔜<a href="https://www.yuque.com/u39067637" target="_blank">语雀·史迪仔</a>
+- 🤔 我是一个终身学习者，对编程、人工智能、前沿技术充满热情。
 
-- 🤔 我是一个终身学习者，对编程、人工智能、数据科学和历史充满热情。
+<p>&emsp;Ctrl+Z不是时光机，人生没有万能接口，但好在每个死循环里都藏着重启的彩蛋——碳基生命从不死机，顶多偶尔热更新。</p
 
-- 👥 2024 年初和朋友创业，是关于数据方向的，有兴趣的朋友可以来看看 <a href="http://www.sparkflare.cn" target="_blank">▶️Sparkflare</a>
+ <!-- GitHub 奖杯🏆 -->
+  <div><img src="https://github-profile-trophy.vercel.app/?username=xi029&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
-<p>&emsp;&emsp;Go be a great engineer. We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p
+<tr><td>
 
-</td></tr>
+<h2 align="center">GitHub Stats:</h3>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=xi029&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="xi029" />
+</div>
