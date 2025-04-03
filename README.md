@@ -8,7 +8,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="78" src="https://github.com/xi029/xi029/blob/main/assets/kyubey.gif"/>
+<img align="right" width="88" src="https://github.com/xi029/xi029/blob/main/assets/kyubey.gif"/>
 
 就读于**北京邮电大学**通信工程英才班，目前大四，已保研至**复旦大学**直博，人工智能方向
 
