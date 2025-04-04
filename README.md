@@ -14,7 +14,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://github.com/xi029/xi029/blob/main/assets/kyubey.gif"/>
+<img align="right" width="100" src="https://github.com/xi029/xi029/blob/main/assets/kyubey.gif"/>
 
 就读于 TUST 计算机科学与技术专业，目前大三，人工智能方向
 
@@ -46,4 +46,8 @@
 <h2 align="center">GitHub Stats:</h3>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xi029&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="xi029" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/xi029/xi029/blob/main/assets/icon.png" />
 </div>
