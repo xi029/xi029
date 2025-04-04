@@ -27,6 +27,7 @@
 - 🛠️ 热爱计算机科学和 IT 互联网 🖥️ 事业，平时自己也做一些人工智能开发，希望能成为一名优秀的程序员。
 
 - 👨🏽‍💻 现在忙于课业和科研，这段时间结束会重拾技术，做一些想做的事
+  <img align="right" width="100" src="https://github.com/xi029/xi029/blob/main/assets/kyubey.gif"/>
 - 💩 我的作品 ⏬⏬
 
   - <a href="https://github.com/xi029">>>GitHub 项目</a>
