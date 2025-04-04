@@ -8,8 +8,6 @@
   <img src="https://github.com/xi029/xi029/blob/main/assets/icon.png" />
 </div>
 
-<div>&nbsp;</div>
-
 ## Hello 👋, here is xiao taixain ~🤓
 
 <table>
