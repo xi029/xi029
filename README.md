@@ -36,15 +36,14 @@
 
 - 🤔 我是一个终身学习者，对编程、人工智能、前沿技术充满热情。
 
-<p>&emsp;Ctrl+Z不是时光机，人生没有万能接口，但好在每个死循环里都藏着重启的彩蛋——碳基生命从不死机，顶多偶尔热更新。</p
+<p>&emsp;🔭Ctrl+Z不是时光机，人生没有万能接口，但好在每个死循环里都藏着重启的彩蛋——碳基生命从不死机，顶多偶尔热更新。</p
 
  <!-- GitHub 奖杯🏆 -->
   <div><img src="https://github-profile-trophy.vercel.app/?username=xi029&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 <tr><td>
-
-<h2 align="center">GitHub Stats:</h3>
 <div align="center">
+<h2 align="center">GitHub Stats:</h3>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xi029&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="xi029" />
 </div>
