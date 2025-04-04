@@ -20,7 +20,7 @@
 
 就读于 TUST 计算机科学与技术专业，目前大三，人工智能方向
 
-- 🎓 大二转专业到 CS 专业，便一直在<b href="https://ai.tust.edu.cn/kxyj/kytd/b393d34e127243459377092ad41c36e3.htm">tustAiLab</b>做视觉感知、蛋白质学习等方面科研
+- 🎓 大二转专业到 CS 专业，便一直在 [tustAiLab](https://ai.tust.edu.cn/kxyj/kytd/b393d34e127243459377092ad41c36e3.htm)做视觉感知、蛋白质学习等方面的科研项目
 
 - 🌱 以后的目标方向是高效深度学习、多模态大模型、**Agent**，目前准备 26 推免事宜。
 
@@ -32,7 +32,7 @@
 
 - 💩 我的作品 ⏬⏬
 
-  - <a href="https://github.com/xi029">>>GitHub 项目</a>
+  - <a href="https://github.com/xi029?tab=repositories&q=&type=&language=&sort=">>>GitHub 项目</a>
   - <a href="https://blog.csdn.net/weixin_47520540?spm=1000.2115.3001.5343k">>>CSDN 博客</a>
   - <a href="https://www.cnblogs.com/taixian">>>博客园</a>
 
