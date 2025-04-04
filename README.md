@@ -1,12 +1,15 @@
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
+<div align="center">
+  <img src="https://github.com/xi029/xi029/blob/main/assets/icon.png" />
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=85F7BD&width=550&height=60&lines=Welcome+to+Xiao+taixian's++Github!)](https://git.io/typing-svg)
 
 <div>&nbsp;</div>
 
-# Hello 👋, here is xiao taixain ~🤓
+## Hello 👋, here is xiao taixain ~🤓
 
 <table>
 <!-- 个人介绍 -->
@@ -46,8 +49,4 @@
 <h2 align="center">GitHub Stats:</h3>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xi029&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="xi029" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/xi029/xi029/blob/main/assets/icon.png" />
 </div>
