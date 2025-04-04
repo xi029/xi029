@@ -1,11 +1,12 @@
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=85F7BD&width=550&height=60&lines=Welcome+to+Xiao+taixian's++Github!)](https://git.io/typing-svg)
+
 <div align="center">
   <img src="https://github.com/xi029/xi029/blob/main/assets/icon.png" />
 </div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=85F7BD&width=550&height=60&lines=Welcome+to+Xiao+taixian's++Github!)](https://git.io/typing-svg)
 
 <div>&nbsp;</div>
 
