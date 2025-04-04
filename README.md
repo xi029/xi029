@@ -40,7 +40,9 @@
 
 - 🤔 我是一个终身学习者，对编程、人工智能、前沿技术充满热情。
 
-<p>&emsp;🔭Ctrl+Z不是时光机，人生没有万能接口，但好在每个死循环里都藏着重启的彩蛋——碳基生命从不死机，顶多偶尔热更新。</p>
+<p>&emsp;🔭Ctrl+Z不是时光机，人生没有万能接口，但好在每个死循环里都藏着重启的彩蛋：
+
+碳基生命从不死机，顶多偶尔热更新。</p>
 
 <div align="right">
   <table>
@@ -56,7 +58,7 @@
   <div><img src="https://github-profile-trophy.vercel.app/?username=xi029&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 <details>
-  <summary>More stats</summary>
+  <summary align="center">More stats</summary>
   
 <div align="center" >
 <a  href="https://github.com/SP-XD">
