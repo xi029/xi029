@@ -28,7 +28,7 @@
 
 - 👨🏽‍💻 现在忙于课业和科研，这段时间结束会重拾技术，做一些想做的事
 
-<img align="right" width="100" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<img align="right" width="100" src="https://github.com/xi029/xi029/blob/main/assets/img.gif" width="100">
 
 - 💩 我的作品 ⏬⏬
 
