@@ -18,7 +18,7 @@
 
 <img align="right" width="100" src="https://github.com/xi029/xi029/blob/main/assets/kyubey.gif"/>
 
-就读于 TUST 计算机科学与技术专业，目前大三，人工智能方向
+就读于 TUST 计算机科学与技术专业大四，保研至厦门大学 mac 实验室
 
 - 🎓 大二转专业到 CS 专业，便一直在 [tustAiLab](https://ai.tust.edu.cn/kxyj/kytd/b393d34e127243459377092ad41c36e3.htm)做视觉感知、蛋白质学习等方面的科研项目
 
