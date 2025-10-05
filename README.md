@@ -16,7 +16,7 @@
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> About Me </h2>
 
-<img align="right" width="100" src="https://github.com/xi029/xi029/blob/main/assets/kyubey.gif"/>
+<img align="right" width="100" src="https://github.com/xi029/xi029/blob/main/assets/kyubey.gif">
 
 就读于 TUST 计算机科学与技术专业大四，保研至厦门大学 mac 实验室
 
@@ -28,7 +28,7 @@
 
 - 👨🏽‍💻 现在忙于课业和科研，这段时间结束会重拾技术，做一些想做的事
 
-<img align="right" width="100" src="https://github.com/xi029/xi029/blob/main/assets/img.gif" width="100">
+<img align="right" width="100" src="https://github.com/xi029/xi029/blob/main/assets/img.gif" >
 
 - 💩 我的作品 ⏬⏬
 
