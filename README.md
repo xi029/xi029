@@ -18,20 +18,19 @@
 
 <img align="right" width="100" src="https://github.com/xi029/xi029/blob/main/assets/kyubey.gif">
 
-就读于 TUST 计算机科学与技术专业大四，保研至厦门大学 mac 实验室
+就读于厦门大学人工智能系[MAC](https://mac.xmu.edu.cn/index.htm)实验室
 
-- 🎓 大二转专业到 CS 专业，便一直在 [tustAiLab](https://ai.tust.edu.cn/kxyj/kytd/b393d34e127243459377092ad41c36e3.htm)做视觉感知、蛋白质学习等方面的科研项目
+- 👨🏽‍💻 在**腾讯公司**WXG进行大模型算法实习
 
-- 🌱 以后的目标方向是深度学习、计算机视觉、多模态大模型、**Agent**。
+- 🌱 以后的方向是多模态大模型、**Agent**、强化学习。
 
 - 🛠️ 热爱计算机科学和 IT 互联网 🖥️ 事业，平时自己也做一些人工智能方向的技术研究。
 
-- 👨🏽‍💻 现在忙于课业和科研，这段时间结束会重拾技术，做一些想做的事
+- 🎓 现在忙于实习和科研，这段时间结束会重拾技术，做一些想做的事
 
 <img align="right" width="100" src="https://github.com/xi029/xi029/blob/main/assets/img.gif" >
 
 - 💩 我的作品 ⏬⏬
-
   - <a href="https://github.com/xi029?tab=repositories&q=&type=&language=&sort=">>>GitHub 项目</a>
   - <a href="https://blog.csdn.net/weixin_47520540?spm=1000.2115.3001.5343k">>>CSDN 博客</a>
   - <a href="https://www.cnblogs.com/taixian">>>博客园</a>
