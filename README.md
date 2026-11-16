@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=85F7BD&width=550&height=60&lines=Welcome+to+Xiao+taixian's++Github!)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github.com/xi029/xi029/blob/main/assets/icon.png" />
+  <img src="./assets/icon.png" alt="Xiao Taixian" />
 </div>
 
 ### Hello 👋, here is xiao taixain ~🤓
@@ -16,7 +16,7 @@
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> About Me </h2>
 
-<img align="right" width="100" src="https://github.com/xi029/xi029/blob/main/assets/kyubey.gif">
+<img align="right" width="100" src="./assets/kyubey.gif" alt="Kyubey animation">
 
 就读于厦门大学人工智能系[MAC](https://mac.xmu.edu.cn/index.htm)实验室
 
@@ -28,11 +28,11 @@
 
 - 🎓 现在忙于实习和科研，这段时间结束会重拾技术，做一些想做的事
 
-<img align="right" width="100" src="https://github.com/xi029/xi029/blob/main/assets/img.gif" >
+<img align="right" width="100" src="./assets/img.gif" alt="Character animation">
 
 - 💩 我的作品 ⏬⏬
-  - <a href="https://github.com/xi029?tab=repositories&q=&type=&language=&sort=">>>GitHub 项目</a>
-  - <a href="https://blog.csdn.net/weixin_47520540?spm=1000.2115.3001.5343k">>>CSDN 博客</a>
+  - <a href="https://github.com/xi029?tab=repositories">>>GitHub 项目</a>
+  - <a href="https://blog.csdn.net/weixin_47520540?type=blog">>>CSDN 博客</a>
   - <a href="https://www.cnblogs.com/taixian">>>博客园</a>
 
 - ✨ 本科期间参加各种计算机设计类比赛的作品项目和有趣的课程设计 🔜<a href="https://github.com/xi029/xi029">后续会进行开源</a>
@@ -45,26 +45,29 @@
 
 <div align="center">
   <table>
-    <tr>
+    <tr><td>
       <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
-    </tr>
+    </td></tr>
   </table>
 </div>
 
  <!-- GitHub 奖杯🏆 -->
-  <div><img src="https://github-profile-trophy.vercel.app/?username=xi029&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+  <div align="center">
+    <a href="https://github.com/xi029?tab=achievements"><img src="./assets/trophies.svg" alt="xi029's GitHub trophies" /></a>
+  </div>
 
 <details>
   <summary align="center">More stats</summary>
   
-<div align="center" >
-<a  href="https://github.com/SP-XD">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xi029&theme=aura&show_icons=true&hide=stars)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xi029&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</a>
+<div align="center">
+  <a href="https://github.com/xi029"><img src="./assets/stats.svg" alt="xi029's GitHub stats" /></a>
+  <br /><br />
+  <a href="https://github.com/xi029?tab=repositories"><img src="./assets/top-langs.svg" alt="Most used languages in xi029's public repositories" /></a>
+</div>
 </details>
+
+</td></tr>
+</table>
+</div>
